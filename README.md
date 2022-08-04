@@ -1,5 +1,4 @@
-# data-science-in-retail-marketing-dissertation
-Application of data mining and machine learning in retail marketing
+# Application of data mining and machine learning in retail marketing
 
 The dataset named “The Complete Journey” is provided by Dunhumby, a global customer data science company. 
 This is a complex dataset that contains household level transactions of over 2,000 households who are frequent shoppers of a retailer. 
@@ -9,5 +8,5 @@ The dataset, if processed and analysed efficiently, will provide crucial insight
 The dataset can be downloaded from https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey?resource=download .
 For more infomation about the dataset, please look at the user guide pdf.
 
-This repositories also contains an R Source file 'Dunhumby' that is used to clean, process and analyse the dataset. You can copy the code and paste it in R Studio to run. 
-Before running the code, make sure to set directory to the folder contains the data
+This repository also contains an R Source file 'Dunhumby' that is used to clean, process and analyse the dataset. You can copy the code and paste it in R Studio to run. 
+Before running the code, make sure to set the working directory to the folder contains the data
